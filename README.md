@@ -4,7 +4,7 @@
 #### I'm Kevin Fabián, a Software developer in Perú
 
 ##### NOW
-- Angular Developer at [`Henkcorp`](https://www.henkcorp.com.pe)
+- Angular Developer at [`Devsu`](https://www.devsu.com)
 - Currently studying `Docker` and `Microservices`
 - 🔭 I’m currently working on a personal project ERP for clothing sales
 
